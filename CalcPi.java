@@ -1,4 +1,4 @@
-// exercose 5.20
+// exercise 5.20
 import java.util.Scanner;
 public class CalcPi
 {
